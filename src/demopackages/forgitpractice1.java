@@ -15,14 +15,10 @@ public class forgitpractice1 {
 		driver.get("https://www.google.com/");
 	}
 	
-	@Test
-	public void print()
-	{
-		System.out.println("hello");
-		System.out.println("hii");
-		System.out.println("bye");
-		
-		
-	}
 
+@Test
+public void print()
+{
+	System.out.println("hello");
+}
 }
